@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**Avinashsasi1955/Avinashsasi1955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there I'm B.Avinash Sasi👋
 Here are some ideas to get you started:
 
 # 💫 About Me:
